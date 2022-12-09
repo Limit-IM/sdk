@@ -8,3 +8,4 @@ i.e. the repo name of `go`'s SDK is `limit-sdk-go` where `go` is the platform.
 - [SDK for .NET](https://github.com/Limit-IM/limit-sdk-dotnet)
 - [SDK for Node](https://github.com/Limit-IM/limit-sdk-node)
 - [SDK for Java](https://github.com/Limit-IM/limit-sdk-java)
+- [gRPC proto](https://github.com/Limit-IM/limit-proto)
